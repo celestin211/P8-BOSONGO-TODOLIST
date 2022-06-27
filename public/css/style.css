@@ -1,0 +1,66 @@
+.pagination {
+    align-items: center;
+    justify-content: center;
+}
+h1, h2{
+    font-family: monospace;
+}
+.my-shadow{
+    box-shadow: 8px 8px 12px black;
+}
+::-webkit-scrollbar {
+  width: 5px;
+  background-color: white;
+}
+::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 32px;
+}
+.pagination > div {
+padding-top:10px;
+}
+.paginate-ctn{
+    display: flex;
+}
+.first, .previous, .last{
+  color:#DD4124;
+  cursor:pointer;
+/*   border:1px solid red; */
+
+  font-size:16px;
+  text-align:center;
+  padding-left:10px;
+  padding-right:10px;
+  padding-top:9px;
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  margin:5px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+   text-decoration: none;
+}
+.first, .previous a {
+    color: black!important;
+    text-decoration: none;
+    background-color: transparent;
+}
+.first, .previous:hover{
+  text-decoration: none;
+  background:#DD4124;
+  color:black!important;
+}
+.first, .previous:hover a {
+  text-decoration: none;
+  color:#FFF;
+}
+
+.active{
+  background:#DD4124;
+  color:#FFF;
+}
+.card-title {
+    margin-bottom: 0.75rem;
+    text-transform: uppercase;
+    font-size: 74%;
+    font-weight: 400;
+}

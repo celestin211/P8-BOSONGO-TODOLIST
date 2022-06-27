@@ -1,0 +1,13 @@
+version: '3'
+services:
+  blackfire:
+    image: blackfire/blackfire:2
+    ports: ["8307"]
+    environment:
+        # Exposes BLACKFIRE_* environment variables from the host
+        BLACKFIRE_SERVER_ID: ~
+        BLACKFIRE_SERVER_TOKEN: ~
+        BLACKFIRE_CLIENT_ID: ~
+        BLACKFIRE_CLIENT_TOKEN: ~
+        HTTP_PROXY: "<your_proxy_address>"
+        HTTPS_PROXY: "<your_proxy_address>"
