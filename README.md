@@ -1,8 +1,10 @@
 #OPENCLASSROOMS TodoList#
  
- https://bosongotodolist.fr
+[ https://bosongotodolist.fr](https://openclassrooms.com/fr/paths/59/projects/44/assignment)
+  https://bosongotodolist.fr
                                                         
 ## Descriptif du besoin ##
+
 Vous venez d’intégrer une startup dont le cœur de métier est une application permettant de gérer ses tâches quotidiennes. L’entreprise vient tout juste d’être montée, et l’application a dû être développée à toute vitesse pour permettre de montrer à de potentiels investisseurs que le concept est viable (on parle de Minimum Viable Product ou MVP).
 
 Le choix du développeur précédent a été d’utiliser le framework PHP Symfony, un framework que vous commencez à bien connaître !
@@ -77,5 +79,3 @@ Ces tests doivent être implémentés avec PHPUnit ; vous pouvez également util
     php bin/console doctrine:database:create
     php bin/console doctrine:migrations:migrate
 ```
-##Testez l'application ##
-  https://bosongotodolist.fr
