@@ -60,7 +60,7 @@ Ces tests doivent être implémentés avec PHPUnit ; vous pouvez également util
 
 1. Clone le repo:
 ```
-    git clone https://github.com/celestin211/oc_project8_bosongo
+    git clone https://github.com/celestin211/P8-BOSONGO-TODOLIST
 ```
 
 2. Editer the .env with your information.
