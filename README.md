@@ -1,5 +1,5 @@
 #OPENCLASSROOMS TodoList#
-                                                        https://bosongotodolist.fr
+                                                      
                                                         
 ## Descriptif du besoin ##
 Vous venez d’intégrer une startup dont le cœur de métier est une application permettant de gérer ses tâches quotidiennes. L’entreprise vient tout juste d’être montée, et l’application a dû être développée à toute vitesse pour permettre de montrer à de potentiels investisseurs que le concept est viable (on parle de Minimum Viable Product ou MVP).
@@ -76,3 +76,5 @@ Ces tests doivent être implémentés avec PHPUnit ; vous pouvez également util
     php bin/console doctrine:database:create
     php bin/console doctrine:migrations:migrate
 ```
+##Testez l'application ##
+  https://bosongotodolist.fr
