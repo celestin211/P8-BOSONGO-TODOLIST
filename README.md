@@ -1,7 +1,5 @@
 #OPENCLASSROOMS TodoList#
-  
-[Codacy]
-https://app.codacy.com/gh/celestin211/P8-BOSONGO-TODO_GIT/dashboard
+ 
                                                         
 ## Descriptif du besoin ##
 Vous venez d’intégrer une startup dont le cœur de métier est une application permettant de gérer ses tâches quotidiennes. L’entreprise vient tout juste d’être montée, et l’application a dû être développée à toute vitesse pour permettre de montrer à de potentiels investisseurs que le concept est viable (on parle de Minimum Viable Product ou MVP).
