@@ -1,6 +1,3 @@
-#OPENCLASSROOMS TodoList#
- 
-https://openclassrooms.com/fr/paths/59/projects/44/assignment
   
   
 https://bosongotodolist.fr
